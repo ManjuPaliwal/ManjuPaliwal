@@ -5,7 +5,7 @@ Recent Graduate Developer looking to take the first step into a new career.
 
 
 ## 💫 Little Bit More About Me
-<p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
+<p> 🤩 Improving my coding skills to become a Frontend developer 🤩 </p>
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManjuPaliwal/KeepLearning.github.io](https://github.com/ManjuPaliwal/KeepLearning.github.io)
