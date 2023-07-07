@@ -8,8 +8,8 @@ Recent Graduate Developer looking to take the first step into a new career.
 <p> 🤩 Improving my coding skills to become a Frontend developer 🤩 </p>
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManjuPaliwal/KeepLearning.github.io](https://github.com/ManjuPaliwal/KeepLearning.github.io)
-
+- 👨‍💻 All of my projects are available at
+- Repository 
 - 💬 Ask me about **Frontend development**
 
 <p align="left">
